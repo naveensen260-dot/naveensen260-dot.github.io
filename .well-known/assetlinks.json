@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.naveensen260dot.geocam",
+    "sha256_cert_fingerprints": [
+      "9C:41:82:2E:5C:1C:3D:41:48:72:39:77:5B:26:63:67:29:2B:57:98:B7:77:01:4E:44:02:63:CE:81:53:07:0B",
+      "1D:39:18:92:A1:AD:BC:8F:8E:31:26:CB:CF:77:24:36:2F:B3:1F:2E:C8:10:A9:5E:24:A5:C7:8A:0E:98:B9:38"
+    ]
+  }
+}]
